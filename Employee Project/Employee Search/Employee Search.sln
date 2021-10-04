@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Employee Search", "Employee Search\Employee Search.pyproj", "{9C41BF99-9F3F-475F-B29B-5FCC1BCECD4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C41BF99-9F3F-475F-B29B-5FCC1BCECD4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C41BF99-9F3F-475F-B29B-5FCC1BCECD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81F389EC-4509-4CEF-BA33-6CA41CCC3EA6}
+	EndGlobalSection
+EndGlobal
